@@ -1,3 +1,5 @@
 React - Social App
 
 Vite - development environment
+
+rafce - react ready-made skeleton. install 'ES7+ React/Redux/React-Native snippets' from extensions
