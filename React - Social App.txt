@@ -1,0 +1,3 @@
+React - Social App
+
+Vite - development environment
